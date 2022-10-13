@@ -43,3 +43,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/magento/magento-original-wordmark.svg" title="Magento" alt="Magento" width="70" height="70" align='center'/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40" align='center'/>
 </div>
+
+:fire: <b>Projects:</b>
+
+<details><summary>Project Managment App - an application that helps an individual in a team or group of developers achieve their goals.
+  <p>Team Final Project from React course <a href='https://rollingscopes.com/'>The Rolling Scope School</a></p>
+  <p><a href='https://rs-taskify.netlify.app/welcome' target='_blank'>Deploy</a></p>
+</details>
