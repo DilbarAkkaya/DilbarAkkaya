@@ -46,32 +46,32 @@
 
 :fire: <b>Projects:</b>
 
-<details><summary>Project Managment App - an application that helps an individual in a team or group of developers achieve their goals.
+<details><summary>Project Managment App - an application that helps an individual in a team or group of developers achieve their goals.</summary>
   <p>Team Final Project from React course <a href='https://rollingscopes.com/'  target='_blank'>The Rolling Scope School</a></p>
   <p>Usage Technologies: React, react-toastify, react-dnd, redux, styled-components, formik</p>
   <p><a href='https://rs-taskify.netlify.app/welcome' target='_blank'>Deploy</a></p>
   <p><a href='https://github.com/DilbarAkkaya/Final-team-task/' target='_blank'>Repo</a></p>
 </details>
-  <details><summary>Momentum - an analogue of the Chrome Web Store application of the same name.
+  <details><summary>Momentum - an analogue of the Chrome Web Store application of the same name.</summary>
   <p>Project from Javascript course <a href='https://rollingscopes.com/'  target='_blank'>The Rolling Scope School</a></p>
   <p>Usage Technologies: HTML, CSS, JS</p>
   <p><a href='https://dilbarakkaya.github.io/RSSchool-projects/momentum/' target='_blank'>Deploy</a></p>
   <p><a href='https://github.com/DilbarAkkaya/RSSchool-projects/tree/momentum' target='_blank'>Repo</a></p>
 </details>
-      <details><summary>Christmas-task - an application that will allow sorting toys by name and number of copies, finding a toy by name, grouping toys by type, adding toys to favorites and removing them from it, as well as with an interactive page where we can decorate the Christmas tree with the selected toys.
+      <details><summary>Christmas-task - an application that will allow sorting toys by name and number of copies, finding a toy by name, grouping toys by type, adding toys to favorites and removing them from it, as well as with an interactive page where we can decorate the Christmas tree with the selected toys.</summary>
   <p>Project from Javascript course <a href='https://rollingscopes.com/'  target='_blank'>The Rolling Scope School</a></p>
   <p>Usage Technologies: HTML, CSS, JS, TS, Webpack, Drag and Drop</p>
   <p><a href='https://dilbarakkaya.github.io/RSSchool-projects/christmas--task/' target='_blank'>Deploy</a></p>
   <p><a href='https://github.com/DilbarAkkaya/RSSchool-projects/tree/christmas--task' target='_blank'>Repo</a></p>
 </details>
-      <details><summary>Museum- a website according to the Figma layout.
+        <details><summary>Museum- a website according to the Figma layout.</summary>
   <p>Project from Javascript course <a href='https://rollingscopes.com/'  target='_blank'>The Rolling Scope School</a></p>
   <p>Usage Technologies: HTML, CSS, JS, JS libraries, Figma</p>
   <p><a href='https://dilbarakkaya.github.io/RSSchool-projects/museum-dom/' target='_blank'>Deploy</a></p>
   <p><a href='https://github.com/DilbarAkkaya/RSSchool-projects/tree/museum-dom' target='_blank'>Repo</a></p>
 </details>
       <details><summary>CV
-  <p>Project from Javascript course <a href='https://rollingscopes.com/'  target='_blank'>The Rolling Scope School</a></p>
+  <p>Project from Javascript course <a href='https://rollingscopes.com/'  target='_blank'>The Rolling Scope School</a></p></summary>
   <p>Usage Technologies: HTML, CSS, JS</p>
   <p><a href='https://dilbarakkaya.github.io/cv_new/' target='_blank'>Deploy</a></p>
   <p><a href='https://github.com/DilbarAkkaya/cv_new' target='_blank'>Repo</a></p>
