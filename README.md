@@ -70,8 +70,8 @@
   <p><a href='https://dilbarakkaya.github.io/RSSchool-projects/museum-dom/' target='_blank'>Deploy</a></p>
   <p><a href='https://github.com/DilbarAkkaya/RSSchool-projects/tree/museum-dom' target='_blank'>Repo</a></p>
 </details>
-      <details><summary>CV
-  <p>Project from Javascript course <a href='https://rollingscopes.com/'  target='_blank'>The Rolling Scope School</a></p></summary>
+      <details><summary> My CV</summary>
+  <p>Project from Javascript course <a href='https://rollingscopes.com/'  target='_blank'>The Rolling Scope School</a></p>
   <p>Usage Technologies: HTML, CSS, JS</p>
   <p><a href='https://dilbarakkaya.github.io/cv_new/' target='_blank'>Deploy</a></p>
   <p><a href='https://github.com/DilbarAkkaya/cv_new' target='_blank'>Repo</a></p>
