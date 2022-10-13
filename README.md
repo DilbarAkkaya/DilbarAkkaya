@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/Biteable-work-biteable-biteableanimation-gIxts9iFf0SLDNPVtL" width="100"/>
+  <img src="https://media.giphy.com/media/gIxts9iFf0SLDNPVtL/giphy.gif" width="100"/>
 </div>
 
 - 👋 Hi, My name is Dilbar
