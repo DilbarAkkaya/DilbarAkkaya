@@ -42,7 +42,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSC" alt="VSCode" width="30" height="30" align='center'/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/magento/magento-original-wordmark.svg" title="Magento" alt="Magento" width="70" height="70" align='center'/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40" align='center'/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/angular-original-wordmark.svg" title="Angular" alt="Angular" width="40" height="40" align='center'/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40" align='center'/>
 </div>
 
 :fire: <b>Projects:</b>
