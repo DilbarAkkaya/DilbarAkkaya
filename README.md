@@ -61,12 +61,19 @@
   <p><a href='https://rs-taskify.netlify.app/welcome' target='_blank'>Deploy</a></p>
   <p><a href='https://github.com/DilbarAkkaya/Final-team-task/' target='_blank'>Repo</a></p>
 </details>
-<details><summary>OBook-shop- online shop to buy book with delivery to user's home.</summary>
+<details><summary>Book-shop- online shop to buy book with delivery to user's home.</summary>
   <p>Project from Javascript/Front-end Mentoring Program (in English) course <a href='https://rollingscopes.com/'  target='_blank'>The Rolling Scope School</a></p>
-  <p>Usage Technologies: Javascript, HTML, CSS, Figma</p>
+  <p>Usage Technologies: Javascript, HTML, CSS, Drag and Drop</p>
   <p><a href='https://github.com/rolling-scopes-school/js-fe-course-en/blob/main/tasks/books-shop/books-shop.md' target='_blank'>Technical requirements</a></p>
   <p><a href='https://dilbarakkaya.github.io/Books-shop/pages/main/' target='_blank'>Deploy</a></p>
   <p><a href='https://github.com/DilbarAkkaya/Books-shop/tree/books-shop' target='_blank'>Repo</a></p>
+</details>
+<details><summary>Async-race -  SPA to manage the collection of the cars, operate its engines, and show races statistics.</summary>
+  <p>Project from Javascript/Front-end Mentoring Program (in English) course <a href='https://rollingscopes.com/'  target='_blank'>The Rolling Scope School</a></p>
+  <p>Usage Technologies: DOM Api, Fetch, REST API, Async coding / Promises, JS Animations</p>
+  <p><a href='https://github.com/rolling-scopes-school/js-fe-course-en/blob/main/tasks/async-race/async-race.md' target='_blank'>Technical requirements</a></p>
+  <p><a href='https://async-race-by-dilbar.netlify.app/' target='_blank'>Deploy</a></p>
+  <p><a href='https://github.com/DilbarAkkaya/async-race' target='_blank'>Repo</a></p>
 </details>
 <details><summary>Online-Zoo - a platform that contains information about animals. As part of the task, we should have done an adaptive layout and interactivity of the main page, and the page with donations.</summary>
   <p>Project from Javascript/Front-end Mentoring Program (in English) course <a href='https://rollingscopes.com/'  target='_blank'>The Rolling Scope School</a></p>
