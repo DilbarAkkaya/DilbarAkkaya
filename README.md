@@ -58,6 +58,7 @@
 <details><summary>Project Managment App (React) - an application that helps an individual in a team or group of developers achieve their goals.</summary>
   <p>Team Final Project from React course <a href='https://rollingscopes.com/'  target='_blank'>The Rolling Scope School</a></p>
   <p>Usage Technologies: React, react-toastify, react-dnd, redux, styled-components, formik</p>
+    <p><a href='https://github.com/rolling-scopes-school/tasks/blob/master/tasks/react/project-management-system-EN.md' target='_blank'>Technical requirements</a></p>
   <p><a href='https://rs-taskify.netlify.app/welcome' target='_blank'>Deploy</a></p>
   <p><a href='https://github.com/DilbarAkkaya/Final-team-task/' target='_blank'>Repo</a></p>
 </details>
