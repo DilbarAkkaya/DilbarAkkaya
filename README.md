@@ -61,7 +61,14 @@
   <p><a href='https://rs-taskify.netlify.app/welcome' target='_blank'>Deploy</a></p>
   <p><a href='https://github.com/DilbarAkkaya/Final-team-task/' target='_blank'>Repo</a></p>
 </details>
-<details><summary>Online-Zoo - a platform that contains information about animals from various zoos with webcams. It is assumed that a user can open the page with zoo resources, observe one of the animals, or make a donation that will be used to purchase food. As part of the task, we should have done an adaptive layout and interactivity of the main page, and the page with donations.</summary>
+<details><summary>OBook-shop- online shop to buy book with delivery to user's home.</summary>
+  <p>Project from Javascript/Front-end Mentoring Program (in English) course <a href='https://rollingscopes.com/'  target='_blank'>The Rolling Scope School</a></p>
+  <p>Usage Technologies: Javascript, HTML, CSS, Figma</p>
+  <p><a href='https://github.com/rolling-scopes-school/js-fe-course-en/blob/main/tasks/books-shop/books-shop.md' target='_blank'>Technical requirements</a></p>
+  <p><a href='https://dilbarakkaya.github.io/Books-shop/pages/main/' target='_blank'>Deploy</a></p>
+  <p><a href='https://github.com/DilbarAkkaya/Books-shop/tree/books-shop' target='_blank'>Repo</a></p>
+</details>
+<details><summary>Online-Zoo - a platform that contains information about animals. As part of the task, we should have done an adaptive layout and interactivity of the main page, and the page with donations.</summary>
   <p>Project from Javascript/Front-end Mentoring Program (in English) course <a href='https://rollingscopes.com/'  target='_blank'>The Rolling Scope School</a></p>
   <p>Usage Technologies: Javascript, HTML, CSS, Figma</p>
   <p><a href='https://github.com/rolling-scopes-school/js-fe-course-en/blob/main/tasks/online-zoo/online-zoo.md' target='_blank'>Technical requirements</a></p>
