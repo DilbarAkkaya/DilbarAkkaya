@@ -46,8 +46,13 @@
 </div>
 
 :fire: <b>Projects:</b>
-
-<details><summary>Project Managment App - an application that helps an individual in a team or group of developers achieve their goals.</summary>
+<details><summary>Project Managment App (Angular) - an application that helps an individual in a team or group of developers achieve their goals.</summary>
+  <p> Individual Final Project from Javascript/Front-end Mentoring Program (in English) course <a href='https://rollingscopes.com/'  target='_blank'>The Rolling Scope School</a></p>
+  <p>Usage Technology: Angular</p>
+  <p><a href='https://project-managment-app-bydilbar.netlify.app/#/' target='_blank'>Deploy</a></p>
+  <p><a href='https://github.com/DilbarAkkaya/project-managment-app' target='_blank'>Repo</a></p>
+</details>
+<details><summary>Project Managment App (React) - an application that helps an individual in a team or group of developers achieve their goals.</summary>
   <p>Team Final Project from React course <a href='https://rollingscopes.com/'  target='_blank'>The Rolling Scope School</a></p>
   <p>Usage Technologies: React, react-toastify, react-dnd, redux, styled-components, formik</p>
   <p><a href='https://rs-taskify.netlify.app/welcome' target='_blank'>Deploy</a></p>
